@@ -1,16 +1,26 @@
 # Software Testing Portfolio
 
-Hi, I'm Asif Ali, a Computer Engineering student learning and practicing Software Quality Assurance (QA).
+Hi, I'm Asif Ali, a Computer Engineering student with practical experience in Software Quality Assurance (QA) and manual software testing.
 
 ## Skills
 - Manual Software Testing
-- Bug Reporting
+- Functional Testing
+- UI Testing
+- Bug Identification and Reporting
 - Test Case Writing
 - Java Programming
 - HTML Basics
 
-## Portfolio
-This repository contains my software testing practice, sample test cases, and bug reports.
+## Testing Experience
+I have hands-on experience testing websites and different software modules, including:
+- HR Dashboard
+- POS and mPOS
+- Kiosk Systems
+- MOM App
+- Dropdowns and Notifications
 
-## Goal
-To improve my QA skills and help teams identify software issues through clear and organized testing.
+## Portfolio
+This repository contains my QA practice, sample test cases, bug reports, and software testing experience.
+
+## Career Goal
+To strengthen my QA skills and learn test automation while growing as a professional QA Engineer.
